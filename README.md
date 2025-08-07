@@ -14,6 +14,14 @@ To create a relational database that enables freelancers to:
 
 ---
 
+## Files in this Repository
+
+- [`tables.sql`](tables.sql): SQL code for table creation
+- [`queries.sql`](queries.sql): Sample queries for reports and insights
+- [`Freelancer_DBMS_Report.pdf`](Freelancer_DBMS_Report.pdf): Complete project report with code, data, and outputs
+  
+ ---
+
 ## Key Components
 
 The database includes the following core entities:
@@ -46,7 +54,7 @@ The database includes the following core entities:
 ## Author
 
 **Kammari Vijaya Tejaswini**  
-May 2025  
+August 2025  
 DBMS Mini Project Submission  
 NIT Warangal
 
