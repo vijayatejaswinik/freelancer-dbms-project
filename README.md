@@ -14,12 +14,14 @@ To create a relational database that enables freelancers to:
 
 ---
 
+---
+
 ## Files in this Repository
 
-- [`tables.sql`](tables.sql): SQL code for table creation
-- [`queries.sql`](queries.sql): Sample queries for reports and insights
-- [`Database Mini Project Report_KVT.pdf`](Freelancer_DBMS_Report.pdf): Complete project report with code, data, and outputs
-  
+- [`Database Mini Project Report_KVT.pdf`](Database%20Mini%20Project%20Report_KVT.pdf): Full PDF report with schema, queries, and outputs
+- [`tables.sql`](tables.sql): SQL script to create and populate database tables
+- [`queries.sql`](queries.sql): Sample queries for reports, tracking, and analytics
+
  ---
 
 ## Key Components
