@@ -18,7 +18,7 @@ To create a relational database that enables freelancers to:
 
 - [`tables.sql`](tables.sql): SQL code for table creation
 - [`queries.sql`](queries.sql): Sample queries for reports and insights
-- [`Freelancer_DBMS_Report.pdf`](Freelancer_DBMS_Report.pdf): Complete project report with code, data, and outputs
+- [`Database Mini Project Report_KVT.pdf`](Freelancer_DBMS_Report.pdf): Complete project report with code, data, and outputs
   
  ---
 
