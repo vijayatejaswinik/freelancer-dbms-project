@@ -47,9 +47,12 @@ The database includes the following core entities:
 
 ## Submission Details
 
-- All SQL code, sample data, and query outputs are included in a single PDF report.
-- No external files or folders were used or submitted.
-- The project was executed using an online SQL editor (DB Fiddle).
+- Project created using MySQL
+
+- All SQL code, sample data, and query outputs are included in the PDF report
+
+- Repository includes only: PDF, tables.sql, and queries.sql
+
 
 ---
 
